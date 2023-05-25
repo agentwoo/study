@@ -23,7 +23,7 @@ kubectl get pods -n kuboard -o wide
 
 ## 访问Kuboard
 
-```sh
+```
 http://云服务器ip:30080
 
 账号：admin
@@ -32,7 +32,7 @@ http://云服务器ip:30080
 
 ## 创建集群步骤
 
-```sh
+```
 1、选择admin并查看概要
 2、选择default
 3、常用操作=>创建工作负载
@@ -45,7 +45,7 @@ http://云服务器ip:30080
 ```
 
 ## 访问创建的域名
-```sh
+```
 修改host配置文件（IP地址  域名）
 路径: C:\Windows\System32\drivers\host
 ```
